@@ -1,0 +1,16 @@
+browser.find_element(
+	""
+)
+
+by_xpath
+by_id
+by_name
+css_selector
+
+
+div > h4 > a
+
+
+# how do I extract the link from this variable
+product = driver.find_element(By.CSS_SELECTOR, "a")
+
